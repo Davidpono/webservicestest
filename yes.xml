@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weather>
+  <location>New York</location>
+  <temperature unit="Celsius">22</temperature>
+  <temperature unit="Fahrenheit">71.6</temperature>
+  <condition>Sunny</condition>
+  <date>2024-05-28</date>
+</weather>
